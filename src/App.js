@@ -7,7 +7,7 @@ function App() {
   return (
 
 <div className="container">
-<h1 className="my-4">Lista de Usuarios</h1>
+<h1 className="my-4">Lista de Bancos</h1>
 <table className="table table-bordered table-striped">
   <thead className="thead-dark">
     <tr>
